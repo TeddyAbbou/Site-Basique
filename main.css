@@ -1,0 +1,139 @@
+*{
+  margin: 0;
+  padding: 0px;
+}
+.lien1{
+  background-color: #cccccc;
+  height: 60px;
+  width: 180px;
+  margin-left: 30px;
+  margin-top: 15px;
+  color: #959595;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: bold;
+  border-width: 0px;
+  text-decoration: none;
+}
+#menu a{
+  text-decoration: none;
+  color: #CCCCCC;
+  font-weight: normal;
+  font-size: 15px;
+}
+.dec{
+  padding-top: 80px;
+}
+
+body {
+  background-color: #FFFFF;
+  font-family: Arial, sans-serif;
+  padding: 0px;
+  color: #000000;
+}
+li{
+  padding: 10px;
+
+}
+#menu{
+  color: #cccccc;
+  display:inline-flex;
+  margin: 20px;
+  list-style: none;
+  font-size: 13px;
+  font-family: Helvetica;
+  font-weight: bold;
+  text-decoration: none;
+
+}
+#bande{
+  background-color: #222222;
+  border: none;
+  width: 100%;
+  height: 95px;
+  position: fixed;
+  text-decoration: none;
+
+
+}
+
+table{
+  width="60%"
+  height="30%"
+  border-radius:10px
+}
+
+th {
+  font-size: 35px;
+   font-weight:normal;
+text-align: left;
+}
+p{
+  padding: inherit;
+  margin-right: auto;
+}
+h2 {
+  text-align: right;
+  font-size: 40px;
+  font-weight: normal;
+  padding-left: auto;
+  border-right: 35px;
+}
+#carre{
+  background-color: #F5F5F5;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-style: #E3E3E3;
+  box-shadow: 1px 3px 3px #E3E3E3;
+
+}
+
+td{
+  font-weight: normal;
+}
+#beau{
+  background-color: #CBCBCB;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  padding-right: 337px;
+  padding-left: 337px;
+  margin-left: 60px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+}
+
+#textdroite{
+  font-size: 35px;
+}
+#img{
+  color: #959595;
+  font-size: 80px;
+}
+
+#h{
+  background-color: #337AB7;
+  padding-top: 14px;
+  padding-right: 17px;
+  padding-left: 17px;
+  padding-bottom: 14px;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+
+}
+
+.f{
+  background-color: white;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  box-shadow: 1px 3px 1px #E3E3E3;
+}
+table{
+  padding: 40px;
+}
+
+h6{
+padding: 30px;
+}
